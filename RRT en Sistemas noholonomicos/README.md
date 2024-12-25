@@ -8,3 +8,8 @@ In this project, RRT algorithm is implemented in simulation for path planning on
 
 The implementation uses pygame to visualize the results on environments with and without obstacles as we can see below. For each robot configuration go to [DDR](./DDR/) or [Car-like robot](./Car-like%20robot/) folder.
 
+![DDR no obstacles](./images/DDR_noObstacles.gif)  ![DDR with obstacles](./images/DDR_Obstacles.gif)
+
+![Car-like no obstacles](./images/Car_noObstacles.gif)  ![Car-like with obstacles](./images/Car_Obstacles.gif)
+
+Full detailed project can be found on [this file](Tarea_1_Marco_Esquivel.pdf) even thought it is written in Spanish.
